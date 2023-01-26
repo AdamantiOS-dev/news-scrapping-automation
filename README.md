@@ -3,10 +3,10 @@ news scrapping automation (studi case detik.com)
 
 requirement :
 
-requests modul
+-requests modul
 
-pandas modul
+-pandas modul
 
-BeautifulSoup modul
+-BeautifulSoup modul
 
-tkinter modul
+-tkinter modul
